@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="apparel-m-catalog">
+    <header></header>
+    
+<category-assignment category-id="newarrivals-mens" product-id="11736753M">
+    <primary-flag>true</primary-flag>
+</category-assignment>
+
+<category-assignment category-id="newarrivals-mens" product-id="21736758M">
+    <primary-flag>true</primary-flag>  
+</category-assignment>
+
+<category-assignment category-id="mens" product-id="82936941M">
+    <primary-flag>true</primary-flag>
+</category-assignment>
+
+</catalog>
