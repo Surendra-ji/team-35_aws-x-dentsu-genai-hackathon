@@ -21,3 +21,6 @@ Amazon Badrock Anthropic Claude (ID: anthropic.claude-v2:1) Model access within 
 >`Path: src/data/xml_out_format.txt`. 
 8. Download the XML file. 
 9. upload the same XML in your system.
+
+![image (2)](https://github.com/Surendra-ji/team-35_aws-x-dentsu-genai-hackathon/assets/68191297/e49a7b5e-6bb5-402d-98e4-553c2295787c)
+
